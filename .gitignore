@@ -1,0 +1,12 @@
+*.db
+*.log
+*.old
+*.sqlite3
+*.env
+bin/
+obj/
+/.history/
+/.old/
+/.trash/
+/.vscode/
+build/

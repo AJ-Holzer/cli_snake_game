@@ -1,0 +1,10 @@
+<Project>
+	<PropertyGroup>
+		<UnoPlatformIDE>vscode</UnoPlatformIDE>
+		<UnoPlatformIDEVersion>1.104.2</UnoPlatformIDEVersion>
+		<UnoPlatformExtension>unoplatform.vscode 0.21.3</UnoPlatformExtension>
+		<UnoRemoteControlPort>0</UnoRemoteControlPort>
+		<UnoVSCodeCSharpExtension>ms-dotnettools.csharp 2.90.60</UnoVSCodeCSharpExtension>
+		<UnoVSCodeCSharpDevKitExtension>ms-dotnettools.csdevkit 1.50.51</UnoVSCodeCSharpDevKitExtension>
+	</PropertyGroup>
+</Project>
