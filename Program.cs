@@ -31,8 +31,6 @@ internal class Program
             FieldManager.SpawnFruit(field: field, snake: snake);
             FieldManager.MoveSnake(field: field, snake: snake, userInput: userInput, alive: ref playerAlive);
 
-            Console.Write($"{FieldManager.Score << 2}");
-
             Thread.Sleep(Math.Max(0, 200 - FieldManager.Score * 4)); // lower delay = faster snake
         }
     }
