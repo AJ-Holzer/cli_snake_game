@@ -1,3 +1,3 @@
 # Snake-Game
 
-My first mini game made in C# :)
+A simple CLI snake game made in C#
